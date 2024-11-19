@@ -1,0 +1,10 @@
+.products-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px; /* Adds padding around the entire container */
+    max-width: 1200px; /* Sets a max width for better layout control on large screens */
+    margin: 0 auto; /* Centers the container horizontally */
+  }
+  

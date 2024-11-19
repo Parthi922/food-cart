@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Cheese Burger",
+    "amt": 50,
+    "shop": "Burger Hub",
+    "ftype": "Fast Food",
+    "pic": "/public/images/cheese_burger.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 2,
+    "name": "Spicy Tacos",
+    "amt": 40,
+    "shop": "Taco Fiesta",
+    "ftype": "Mexican",
+    "pic": "/public/images/spicy_tacos.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 3,
+    "name": "Margherita Pizza",
+    "amt": 70,
+    "shop": "Pizza Point",
+    "ftype": "Italian",
+    "pic": "/public/images/margherita_pizza.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Biryani",
+    "amt": 120,
+    "shop": "Biryani House",
+    "ftype": "Indian",
+    "pic": "/public/images/chicken_biryani.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 5,
+    "name": "Veggie Wrap",
+    "amt": 30,
+    "shop": "Wrap It Up",
+    "ftype": "Healthy",
+    "pic": "/public/images/veggie_wrap.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 6,
+    "name": "Sushi Platter",
+    "amt": 150,
+    "shop": "Sushi World",
+    "ftype": "Japanese",
+    "pic": "/public/images/sushi_platter.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 7,
+    "name": "French Fries",
+    "amt": 20,
+    "shop": "Fry Delight",
+    "ftype": "Snacks",
+    "pic": "/public/images/french_fries.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 8,
+    "name": "Falafel Plate",
+    "amt": 60,
+    "shop": "Falafel King",
+    "ftype": "Middle Eastern",
+    "pic": "/public/images/falafel_plate.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 9,
+    "name": "Pasta Alfredo",
+    "amt": 80,
+    "shop": "Pasta Palace",
+    "ftype": "Italian",
+    "pic": "/public/images/pasta_alfredo.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 10,
+    "name": "Hot Dog",
+    "amt": 35,
+    "shop": "Hot Dog Stand",
+    "ftype": "Fast Food",
+    "pic": "/public/images/hot_dog.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 11,
+    "name": "Caesar Salad",
+    "amt": 55,
+    "shop": "Salad Stop",
+    "ftype": "Healthy",
+    "pic": "/public/images/caesar_salad.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 12,
+    "name": "Butter Chicken",
+    "amt": 110,
+    "shop": "Indian Spice",
+    "ftype": "Indian",
+    "pic": "/public/images/butter_chicken.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 13,
+    "name": "Fish & Chips",
+    "amt": 90,
+    "shop": "Fish Fryer",
+    "ftype": "Seafood",
+    "pic": "/public/images/fish_and_chips.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 14,
+    "name": "Pad Thai",
+    "amt": 85,
+    "shop": "Thai Treats",
+    "ftype": "Thai",
+    "pic": "/public/images/pad_thai.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 15,
+    "name": "Dumplings",
+    "amt": 60,
+    "shop": "Dumpling House",
+    "ftype": "Chinese",
+    "pic": "/public/images/dumplings.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 16,
+    "name": "BBQ Ribs",
+    "amt": 130,
+    "shop": "Rib Shack",
+    "ftype": "Barbecue",
+    "pic": "/public/images/bbq_ribs.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 17,
+    "name": "Greek Gyro",
+    "amt": 70,
+    "shop": "Greek Eats",
+    "ftype": "Mediterranean",
+    "pic": "/public/images/greek_gyro.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 18,
+    "name": "Crispy Chicken Sandwich",
+    "amt": 45,
+    "shop": "Sandwich Corner",
+    "ftype": "Fast Food",
+    "pic": "/public/images/crispy_chicken_sandwich.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 19,
+    "name": "Nachos",
+    "amt": 50,
+    "shop": "Nacho Station",
+    "ftype": "Mexican",
+    "pic": "/public/images/nachos.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 20,
+    "name": "Ice Cream Sundae",
+    "amt": 30,
+    "shop": "Sweet Treats",
+    "ftype": "Dessert",
+    "pic": "/public/images/ice_cream_sundae.jpg",
+    "latest": "Yes"
+  }
+]

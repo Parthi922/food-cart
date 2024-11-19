@@ -1,0 +1,41 @@
+.Cart-container {
+    display: flex;
+    flex-direction: column; /* Stacks cart items vertically */
+    padding: 10px; /* Adds padding around the container */
+}
+
+.Cart-products {
+    display: flex;
+    gap: 5px; /* Space between image and details */
+    align-items: center; /* Centers items vertically */
+    margin-bottom: 10px; /* Adds space between cart items */
+    border: 1px solid #ccc; /* Adds a border around each cart item */
+    border-radius: 5px; /* Optional: Adds rounded corners */
+    overflow: hidden; /* Prevents overflow of content */
+}
+
+.Cart-products .img {
+    width: 100px; /* Sets width for product image */
+    height: 100px; /* Sets height for product image */
+}
+
+.Cart-products .img img {
+    width: 100%; /* Ensures image fills the container */
+    height: 100%; /* Ensures image fills the container */
+    object-fit: cover; /* Ensures image maintains aspect ratio */
+}
+
+.Cart-heading, 
+.Cart-amt {
+    font-size: 20px; /* Sets font size for headings and total amount */
+    font-weight: 600; /* Makes the font weight bold */
+    text-align: center; /* Centers text alignment */
+    margin: 10px 0; /* Adds margin for spacing */
+}
+
+.Cart-empty {
+    text-align: center; /* Centers the empty cart message */
+    color: #999; /* Light gray color for the text */
+    font-size: 16px; /* Sets font size for the message */
+    margin: 20px 0; /* Adds space around the message */
+}
